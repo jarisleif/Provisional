@@ -1,3 +1,4 @@
+//some github stuff
 /*
 Exercise 7, Chapter 11, from
 Stroustrup, B. Programming: Principles and Practice Using C++, 2nd Ed.

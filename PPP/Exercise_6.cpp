@@ -1,3 +1,4 @@
+//Some git staff added
 /*
 Exercise 6, Chapter 11, from
 Stroustrup, B. Programming: Principles and Practice Using C++, 2nd Ed.
