@@ -1,4 +1,4 @@
-//Chess Board, page 38, run on Chrome version 66
+//Chess Board, page 38, run on Chrome version 66 (3rd Ed.)
 
 function buildChess(width, height) {
     var string = "\n";
