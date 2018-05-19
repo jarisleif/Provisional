@@ -1,0 +1,61 @@
+body {
+	background-color: #faebd7;
+	font-family: Georgia;
+}
+div {margin: 10px;}
+#header, #footer {
+	background-color: #8db600;
+	display: block;
+	height: 60px;
+}
+#header {z-index: initial;}
+/*#experience, #education, #skills, #hobbies*/ 
+#footer {
+	clear: both;
+}
+#mobile, #email {float: right;}
+
+div div {
+	background-color: inherit;
+	display: inline-block;
+	height: auto;
+	width: auto;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+#photo {
+	position: relative;
+	border-radius: 15px;
+	width: 200px;
+	height: auto;
+	margin-top: 10px;
+	margin-left: 10px;
+	float: left;
+
+}
+.cv{
+	display: inline-block;
+	background-color: #ffa812;
+	border-radius: 15px;
+	width: 250px;
+	height: 350px;
+	float: left;
+}
+h3 {
+	text-align: center;
+}
+ul {
+	margin-right: 10px;
+}
+a {
+	text-decoration: none;
+	color: black;
+}
+a:hover {color: white;}
+h3, ul {}
+p {
+	font-weight: bold;
+}
+span {
+	font-style: italic;
+}
